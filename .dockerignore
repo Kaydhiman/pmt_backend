@@ -1,0 +1,6 @@
+env/
+__pycashe__/
+
+*.env
+*.env.*
+env.*
